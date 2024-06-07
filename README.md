@@ -20,9 +20,10 @@ Ejemplo de Uso
 
 **Ejemplo de Conversion**  
 
-![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/0aba48ee-f77d-44f6-bbfe-67123ad30173)  
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/fb495317-056c-48d1-9ff2-887ac7ad33aa)  
 
 
+Adicionalmente esta la opcion de ¿Desea hacer una nueva conversión? (si/no): 
 (*Si se selecciona que si, volvera a mostrar el menú inicial, si es no saldra del programa y si coloca un dato invalido este pedira que ingrese de nuevo un valor valido*)  
 
 Ejemplos  
