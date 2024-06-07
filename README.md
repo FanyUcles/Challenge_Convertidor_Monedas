@@ -15,37 +15,46 @@ Clases
 Ejemplo de Uso
 **Menú Inicial**  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/ccc968ce-eb5d-4c23-8dbf-9448db60e00a)  
-
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/630ffef6-dc23-488f-aace-c5af660187b7)  
 
 
 **Ejemplo de Conversion**  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/ab1f9272-7a23-42ea-b5c0-22c59fc606c6)  
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/0aba48ee-f77d-44f6-bbfe-67123ad30173)  
 
 
 (*Si se selecciona que si, volvera a mostrar el menú inicial, si es no saldra del programa y si coloca un dato invalido este pedira que ingrese de nuevo un valor valido*)  
 
 Ejemplos  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/ef688262-e3eb-465c-a1e5-4b5b3019e96e)  
-}
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/acacdac4-4a6d-4a92-afab-fa5c6eaf9d19)  
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/f93cee15-70c4-4487-9d32-a8651e671635)  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/c9c2aac9-2c45-4abc-8e83-4996a485f31a)  
+
+
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/a585993f-6953-4e43-a8ba-89a05acf2610)  
+
+
+
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/575738ff-8b2d-4bc0-9a54-4cc4e64324de)  
 
 
 **Ver Historial**  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/820fa797-30f7-417e-8fb0-1d4db5dd078f)  
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/2dbcc203-84e1-40de-97df-b014cd69fa09)  
+
+
 
 (*Si no hay nada en el historial este mostrara lo siguiente*)  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/4612cef5-0900-43a2-8d60-29c8b91ed0b4)  
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/ea2469f5-7f1e-4fe3-96f6-9f928d8b9a60)  
+
+ 
 
 
 **Finalizacion del Programa**  
 
-![image](https://github.com/FanyUcles/Conversor_Monedas_Challenge/assets/99224728/a8b9d7c7-bff5-4793-a5f6-e7af97c3a8be)  
+![image](https://github.com/FanyUcles/Challenge_Convertidor_Monedas/assets/99224728/d6ce70f4-8aeb-4ce8-acd5-cc6370b509a2)  
+
+
 
 
